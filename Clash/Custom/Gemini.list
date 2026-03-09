@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,apis.google.com
 # Claude
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
 # Google APIs
 DOMAIN-SUFFIX,googleapis.com
