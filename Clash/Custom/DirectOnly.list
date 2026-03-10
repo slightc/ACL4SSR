@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,files.slack.com
 DOMAIN-SUFFIX,sub.xeton.dev
+
+# zerotier
+IP-CIDR,35.208.19.76/32,no-resolve
