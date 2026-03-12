@@ -3,4 +3,6 @@ DOMAIN-SUFFIX,sub.xeton.dev
 
 # zerotier
 DST-PORT,9993
+
+# ec2
 DOMAIN-SUFFIX,compute.amazonaws.com
