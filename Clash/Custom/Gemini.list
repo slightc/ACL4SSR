@@ -23,3 +23,10 @@ DOMAIN-SUFFIX,api.anthropic.com
 DOMAIN-SUFFIX,openai.com
 
 DOMAIN-SUFFIX,antigravity.google
+
+# chatgpt
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,auth0.com
+- DOMAIN-SUFFIX,bing.com
+- DOMAIN-SUFFIX,live.com
+- DOMAIN-SUFFIX,chatgpt.com
