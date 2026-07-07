@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23
 IP-CIDR,209.249.57.0/24
 
