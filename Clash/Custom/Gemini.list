@@ -20,19 +20,27 @@ DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23
 IP-CIDR,209.249.57.0/24
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,cdn.usefathom.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN,autopush-cloudcode-pa.sandbox.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,api.anthropic.com
 
 # Google APIs
 DOMAIN-SUFFIX,googleapis.com
-
-DOMAIN-SUFFIX,api.anthropic.com
-
 DOMAIN-SUFFIX,openai.com
-
 DOMAIN-SUFFIX,antigravity.google
 
 # chatgpt
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,auth0.com
-- DOMAIN-SUFFIX,bing.com
-- DOMAIN-SUFFIX,live.com
-- DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,chatgpt.com
