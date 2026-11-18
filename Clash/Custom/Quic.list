@@ -1,3 +1,2 @@
 # QUIC
-# - NETWORK,quic
-# - DST-PORT,443/udp
+- AND,((NETWORK,UDP),(DST-PORT,443))
